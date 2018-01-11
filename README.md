@@ -16,4 +16,6 @@ likelyhood_no_low, likelyhood_no_high.
 In test procedure, we first read all the test data from yes_train.txt and no_test.txt. Then we use MAP classification, 
 that’s to say, we assign the images to the class with the highest posterior. 
 The formula we used here is:
+[!image](https://github.com/zerowsw/audio_classification/blob/master/formula2.png) <br>
+
 
